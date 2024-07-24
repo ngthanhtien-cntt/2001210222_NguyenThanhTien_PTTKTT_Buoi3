@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi3\TongMang\TongMangDQ\bin\Debug\TongMangDQ.exe.config
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi3\TongMang\TongMangDQ\bin\Debug\TongMangDQ.exe
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi3\TongMang\TongMangDQ\bin\Debug\TongMangDQ.pdb
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi3\TongMang\TongMangDQ\obj\Debug\TongMangDQ.exe
+E:\LuuDuLieuSinhVien\2001210222_NguyenThanhTien_Buoi3\TongMang\TongMangDQ\obj\Debug\TongMangDQ.pdb
